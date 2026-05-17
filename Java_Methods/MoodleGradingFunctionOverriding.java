@@ -1,3 +1,4 @@
+package Java_Methods;
 public class MoodleGradingFunctionOverriding {
     public static double calculategrade(int coursework, int exam){
         double result;

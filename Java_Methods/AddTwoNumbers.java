@@ -1,3 +1,4 @@
+package Java_Methods;
 public class AddTwoNumbers {
 
     public static void addNumbers(int a, int b) {

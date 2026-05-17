@@ -1,3 +1,4 @@
+package Java_Methods;
 public class spoketension {
     public static void main(String[] args) {
         int[] spokeTensions={85,90,60,88,120,92,75};

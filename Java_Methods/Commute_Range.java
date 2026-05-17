@@ -1,3 +1,4 @@
+package Java_Methods;
 public class Commute_Range {
     public static double estimateRange(int batteryLevel){
         double result;

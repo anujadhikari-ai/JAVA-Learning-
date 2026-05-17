@@ -1,3 +1,4 @@
+package Java_Methods;
 public class AbsoluteValue {
     public static int absoluteValue(int num) {
         if (num < 0) {

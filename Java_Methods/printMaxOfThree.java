@@ -1,3 +1,4 @@
+package Java_Methods;
 public class printMaxOfThree {
     public static void printMaxOfThree(int a, int x, int b){
        int max=a;

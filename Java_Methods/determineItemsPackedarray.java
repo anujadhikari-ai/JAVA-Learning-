@@ -1,3 +1,4 @@
+package Java_Methods;
 public class determineItemsPackedarray {
     public static void main(String[] args) {
         int[] boxes= {12,15,9,14,8,12};
